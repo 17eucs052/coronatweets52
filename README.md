@@ -4,14 +4,14 @@ R Script that uses Twitter API and fetches tweets based on word "corona" and out
 "retweets.json" if tweet is in English with screen_name and retweet_count, or "nonenglishtweets.json" if its other language with screen_name, created_at, hashtag.
 
 Required Packages:
-  rtweet
-  tidytext
-  dplyr
-  jsonlite
-  plumber
+  rtweet,
+  tidytext,
+  dplyr,
+  jsonlite,
+  plumber.
 
 Steps to execute:
-  Install required packages
-  Open app.R file in R Studio
-  Click on Run API
-  The output files will be written on current path
+  Install required packages,
+  Open app.R file in R Studio,
+  Click on Run API,
+  The output files will be written on current path.
