@@ -12,6 +12,6 @@ Required Packages:
 
 Steps to execute:
   Install required packages ->
-  Open app.R file in R Studio -> Change #To Gain TwitterAPIAccess Section values to your own values which can be obtained by requesting Twitter API Access from Twitter officially -> 
+  Open app.R file in R Studio -> Change "#To Gain TwitterAPIAccess" Section values to your own values which can be obtained by requesting Twitter API Access from Twitter officially -> 
   Click on Run API ->
   The output files will be written on current path.
