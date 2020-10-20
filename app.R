@@ -1,9 +1,8 @@
 library(rtweet)
 library(tidytext)
-library(ggplot2)
 library(dplyr)
 library(jsonlite)
-#library(plumber)
+library(plumber)
 
 # api.R 
 #* @get /coronatweets
