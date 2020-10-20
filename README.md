@@ -1,6 +1,7 @@
 # coronatweets52
 
-R Script that uses Twitter API and fetches tweets based on word "corona" and outputs top 10 tweets based on number of retweets to "retweets.json" if tweet is in English with screen_name and retweet_count, or "nonenglishtweets.json" if its other language with screen_name, created_at, hashtag.
+R Script that uses Twitter API and fetches tweets based on word "corona" and outputs top 10 tweets based on number of retweets to 
+"retweets.json" if tweet is in English with screen_name and retweet_count, or "nonenglishtweets.json" if its other language with screen_name, created_at, hashtag.
 
 Required Packages:
   rtweet
